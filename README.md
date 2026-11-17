@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
   DigiStrike | Digispark ATtiny85 BadUSB WiFi Credential Exfiltrator
   Keywords: BadUSB, Digispark, ATtiny85, HID attack, WiFi credential dumper,
@@ -323,3 +324,6 @@ The author takes no responsibility for misuse.
 If this helped you understand BadUSB attacks, drop a ⭐
 
 </div>
+=======
+# wifipasswordrecover
+>>>>>>> 8ad0cb487b8aa901de9deea2be9b1ec79b80e377
