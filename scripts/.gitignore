@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python & System Temp Files
+__pycache__/
+*.pyc
+*.tmp
+~*
+
+# Sensitive Configs & Local Exports
+.env
+*.token
+wifi_exports/
+*.txt
